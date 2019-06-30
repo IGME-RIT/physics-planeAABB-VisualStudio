@@ -1,4 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\level6 secondhalf\physics-planeaabb-mastervs2019\planeaabb\main.cpp(513): warning C4326: return type of 'main' should be 'int' instead of 'void'
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  PlaneAABB.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level6 secondHalf\physics-planeAABB-masterVS2019\PlaneAABB\Debug\PlaneAABB.exe
